@@ -1,7 +1,31 @@
 body {
-    width: 720;
+    margin: auto;
 }
 
-h2 {
-    color: blueviolet;
+.navdiv {
+    margin: auto;
+}
+
+#name {
+    font-weight: 700;
+    color: green;
+}
+
+.container {
+    width: 720px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+}
+
+#container2 {
+    font-size: 20px;
+    background-color: #eeeeee;
+}
+
+h3 {
+    color: darkgreen;
 }
